@@ -6,10 +6,14 @@ I’m excited to unveil my latest project: a Hospital Management Dashboard built
 Working with a dataset of 10,000+ patients, I focused on turning complex medical and financial records into a clear narrative for hospital administrators.
 
 💡 Key Insights & Strategic Highlights:
+
 🔹 Financial Gap Analysis: Identified a critical ₹52.3 Cr in pending payments against ₹51 Cr collected, highlighting a major area for       revenue cycle optimization.
+
 🔹 Surgical Load & Capacity: With a 50.5% surgery rate, the dashboard emphasizes the need for strategic OR (Operating Room) scheduling
     and staff management.
+    
 🔹 Demographic Trends: Senior citizens (61+) make up 33% of the patient base, signaling a need for specialized geriatric care services.
+
 🔹 Patient Experience: Mapped satisfaction scores across 8 departments, identifying Cardiology as a leader and highlighting areas for
     service improvement elsewhere.
 
