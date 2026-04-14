@@ -19,4 +19,4 @@ Tech Stack: Power BI | DAX | Data Modeling | UI Design
 I would love to connect with healthcare professionals and fellow data enthusiasts to hear your thoughts! 👇
 
 Show what the dashboard looks like.
-Example:
+Example:[Dashboard Preview] (https://github.com/SahilRaza8757/Hospital-Dashboard/blob/main/Snapshot%20of%20the%20Hospital%20Dashboard.png)
