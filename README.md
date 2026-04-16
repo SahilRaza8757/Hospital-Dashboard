@@ -1,4 +1,4 @@
-# Hospital-Dashboard
+# Hospital-Management-Dashboard
 Hospital Management Reports
 
 I’m excited to unveil my latest project: a Hospital Management Dashboard built in Power BI. This isn't just a collection of charts; it’s a comprehensive tool designed to streamline healthcare operations and financial tracking.
